@@ -1,0 +1,14 @@
+C:\Users\DELL-PC\source\repos\LeTriThong_MemoryMatrixGame\LeTriThong_MemoryMatrixGame\bin\Release\LeTriThong_MemoryMatrixGame.exe.config
+C:\Users\DELL-PC\source\repos\LeTriThong_MemoryMatrixGame\LeTriThong_MemoryMatrixGame\bin\Release\LeTriThong_MemoryMatrixGame.exe
+C:\Users\DELL-PC\source\repos\LeTriThong_MemoryMatrixGame\LeTriThong_MemoryMatrixGame\bin\Release\LeTriThong_MemoryMatrixGame.pdb
+C:\Users\DELL-PC\source\repos\LeTriThong_MemoryMatrixGame\LeTriThong_MemoryMatrixGame\obj\Release\LeTriThong_MemoryMatrixGame.csprojAssemblyReference.cache
+C:\Users\DELL-PC\source\repos\LeTriThong_MemoryMatrixGame\LeTriThong_MemoryMatrixGame\obj\Release\MainWindow.g.cs
+C:\Users\DELL-PC\source\repos\LeTriThong_MemoryMatrixGame\LeTriThong_MemoryMatrixGame\obj\Release\App.g.cs
+C:\Users\DELL-PC\source\repos\LeTriThong_MemoryMatrixGame\LeTriThong_MemoryMatrixGame\obj\Release\LeTriThong_MemoryMatrixGame_MarkupCompile.cache
+C:\Users\DELL-PC\source\repos\LeTriThong_MemoryMatrixGame\LeTriThong_MemoryMatrixGame\obj\Release\LeTriThong_MemoryMatrixGame_MarkupCompile.lref
+C:\Users\DELL-PC\source\repos\LeTriThong_MemoryMatrixGame\LeTriThong_MemoryMatrixGame\obj\Release\MainWindow.baml
+C:\Users\DELL-PC\source\repos\LeTriThong_MemoryMatrixGame\LeTriThong_MemoryMatrixGame\obj\Release\LeTriThong_MemoryMatrixGame.g.resources
+C:\Users\DELL-PC\source\repos\LeTriThong_MemoryMatrixGame\LeTriThong_MemoryMatrixGame\obj\Release\LeTriThong_MemoryMatrixGame.Properties.Resources.resources
+C:\Users\DELL-PC\source\repos\LeTriThong_MemoryMatrixGame\LeTriThong_MemoryMatrixGame\obj\Release\LeTriThong_MemoryMatrixGame.csproj.GenerateResource.cache
+C:\Users\DELL-PC\source\repos\LeTriThong_MemoryMatrixGame\LeTriThong_MemoryMatrixGame\obj\Release\LeTriThong_MemoryMatrixGame.exe
+C:\Users\DELL-PC\source\repos\LeTriThong_MemoryMatrixGame\LeTriThong_MemoryMatrixGame\obj\Release\LeTriThong_MemoryMatrixGame.pdb
